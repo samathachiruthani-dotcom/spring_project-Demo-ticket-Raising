@@ -1,2 +1,0 @@
-@rest controller
-  "hello spring"
